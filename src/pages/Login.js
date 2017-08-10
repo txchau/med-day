@@ -6,7 +6,7 @@ class Login extends Component {
       <div className="app flex-row align-items-center">
         <div className="container">
           <div className="row justify-content-center">
-            <div className="col-md-4">
+            <div className="col-md-4 col-lg-4 col-md-offset-4 col-lg-offset-4"> 
                 <div className="card p-4">
                   <div className="card-block">
                     <h1>Login</h1>
